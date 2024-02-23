@@ -1,3 +1,4 @@
+-- Active: 1708693733407@@127.0.0.1@5432
 
 -- Tabelas já foram criadas
 CREATE TABLE bands (
